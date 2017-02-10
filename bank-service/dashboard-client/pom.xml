@@ -45,7 +45,7 @@
                 <executions>
                     <execution>
                         <id>thrift-sources</id>
-                        <phase>generate-resources</phase>
+                        <phase>process-resources</phase>
                         <goals>
                             <goal>compile</goal>
                         </goals>
